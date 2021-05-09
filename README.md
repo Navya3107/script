@@ -1,1 +1,2 @@
-# script
+# hello-world.js
+script
